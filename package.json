@@ -1,7 +1,23 @@
 {
-  "name": "multiple-directives-lab",
+  "name": "angular-multiple-directives-lab-v-000",
   "version": "1.0.0",
-  "devDependencies": {
-    "express": "4.13.4"
-  }
+  "description": "## Objectives",
+  "main": "conf.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterberwind/angular-multiple-directives-lab-v-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterberwind/angular-multiple-directives-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/peterberwind/angular-multiple-directives-lab-v-000#readme"
 }
